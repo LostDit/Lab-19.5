@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// Функция для приведения строки к нижнему регистру
+// Функция для приведения к нижнему регистру и удаление пунктуации
 string toLower(const string& str) {
     string result = str;
     transform(result.begin(), result.end(), result.begin(), [](unsigned char c) {
