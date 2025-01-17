@@ -9,8 +9,8 @@ acute, acute, acute
 deficit
 ivory
 refund
-seal,Restoration
-restoration
+seal
+restoration, Restoration
 testify
 discriminate
 mold
@@ -98,6 +98,6 @@ confrontation
 faithful
 residence
 organize
-remind
-remind
+remind.remind
+remind, REminD?
 remind
