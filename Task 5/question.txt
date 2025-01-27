@@ -1,0 +1,13 @@
+What is the name of a group of files that is stored as a separate group and has its own name?
+What is the name of the data or program on a magnetic disk?
+What is the largest number of characters a file name extension can have?
+What is the largest number of characters a file or directory name can contain in Windows?
+Which symbol replaces any number of any symbols?
+Can a directory and the files in it have the same name?
+What should you do with a new floppy disk before using it?
+Where is the floppy disk format information written?
+The main programs for working with disks in Windows are located in the folder…
+Which program is an archiver?
+Which of the programs is an antivirus program?
+Which antiviruses work resident?
+The first computer was called:
